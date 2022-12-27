@@ -1,0 +1,19 @@
+.list{
+    width: 50vw;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.list h1{
+    font-weight: normal;
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+}
+.list h1 span{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(110, 110, 110);
+}
